@@ -42,4 +42,4 @@ I am eager to grow and further improve my IT skills.
   * __Bachelor's Degree in Programm Engeneering__, South Ural State University, Russia (2015)
 
 ### English level (CEFR)
-  Intermidiate B1
+  Intermidiate B1 
