@@ -17,3 +17,29 @@ I am eager to grow and further improve my IT skills.
   * CSS
   * JavaScript ES5/ES6
   * Git
+### Code Example
+  ```
+  //Codewars https://www.codewars.com/kata/square-every-digit
+  
+  function squareDigits(num){
+      let arr=String(num).split('');
+      arr.forEach( (item, i, arr) => { arr[i] = Math.pow(Number(item),2);});
+      return Number(arr.join(''));
+  }
+```
+
+### Career Summary
+  * __Practice in 1C__, Unichel (June 2014 - Jule 2014)
+
+    Studied language 1C and wrote requests to inner database for personal company purpose.
+  * __Engeneer-programmer__, HIV Center (Jav.2016-current time)
+
+    Administrated website on CMS Joomla.
+    Created programm on Delphy for exchange data between regional institutions about medical examination of migrants. Developed database for this purpose on MS SQL Server.
+    Supported users in using standart programms pakage.
+
+### Education & Training
+  * __Bachelor's Degree in Programm Engeneering__, South Ural State University, Russia (2015)
+
+### English level (CEFR)
+  Intermidiate B1
